@@ -6,7 +6,7 @@ Aplikasi manajemen keuangan sederhana berbasis Flutter, yang memungkinkan penggu
 
 Nama: Ridho
 NIM: (isi di sini)
-Kelas: (isi di sini)
+Kelas: (5B-INF)
 
 📌 Deskripsi Singkat
 
